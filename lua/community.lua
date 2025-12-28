@@ -17,4 +17,7 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.typescript" },
+
+
+  { import = "astrocommunity.code-runner.overseer-nvim" },
 }
